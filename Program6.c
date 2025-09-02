@@ -8,7 +8,7 @@ int main()
   {
   	printf("Present");
   }
-  else
+  if(a!=100)
   {
   	printf("Not Present");
   }
